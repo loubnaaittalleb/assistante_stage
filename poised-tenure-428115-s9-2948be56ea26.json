@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poised-tenure-428115-s9",
+  "private_key_id": "2948be56ea26139d722239b7177c8f86891ef8a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOL33Sjsnzx4Xp\n7ER3M+cE/WRg8UF/iqLNFJE8OV2R5cQ48Ls1F2VlYgowLCCqaI0gQruWwEc3SAoy\ngIS+8Ng+2GVJHaWQA/wv7Ut7+2zTUxVvGx3sMJovF5Z+EqvCQlbTZ28czfW4rf4q\nPPJTjn9yzepfL7V8AFiZaHkItGTCnfcGwH+4ddkooEypUrWCF2E/FJ9HDc7Q6r2s\ny19RRUusnt2FuhguIJVALTiQw2c8ge29qLbD8z02HKyb9aycIX8oby0WAH7vfNGp\nfj5gMNTGH8hoKMCo0fWs4sZ3Nsw+5ln/xecILzIxN/ONip3utD3g86/XbE0obNrA\neqefT1cDAgMBAAECggEAVa933x6W/9fdp4qYI1+u9KxnYEAyo5HWOVsARmJip+Sw\nKKembRhle34EVOOpyZe8enkxIyOSFP+7uSQexokpnOhqIzoOWWzGi5ZWZdZlcecX\nw74lr8e887AeSxNwTMEr+xwDmZlgMhkgxKXiYOYZwfigG2Gkzr0IFOzNS9hH/XZP\nirwToqRdgRxuCmtGwjxIdxbnMYalFvBRU9gXwaTT8w2E/nuIMu5qoq+pOB2eoQ9N\noqXm6yLDH1aa75aGJPckQBAE8xIvj357WJnXdW8XxNEcUNFeAXOordbuLfP7n6ej\noNQb5me2qvr0liEcvY2RVC0AFKbm/v8W+tYyJUINJQKBgQD6lkXPC3UB0bEIAiZF\nAxs9xXR2Wd49CKB/6C7sZZoykR9YsnKAli2qL9twoQF7sKwa+bELeThlGGfOOaos\naWdDe+23u2BGj1mN+JlQI7YWbFx7oGCfZktA0YLOiCYiRGiAX0Ma9EdaLRHi9oeU\n59/CDxFizE8cguv0JKvAAnP0VwKBgQDSo66RMxPkf8V4zYerVjbWJ/H61jSgFAb+\nqbhMddcVB3agYUJBmQ/Ij9qPBR6PKpHkLH+4tGNN5AsM0zdWL+x54LeleoRfev8V\nIm8IO5ACDSYSwz6p98U8QuswX80XHCwXMt5Gj/31y/PgJOLQpGoVHSzx1EqnbJfs\n07vLtL+nNQKBgQCjpWV7fADyqi1RjI3PfeLZaUzQSYowE6U1Qrz6FrQnl8x/0TGj\nte+md9B38j2UuGD80NmFI6nno5OPAuuWS1Nrp9Arr8uE6PLUG2iMBHZSmHuhJLBV\nCKnWb7xcAl/c+w2/3/Zj8Ol0A4Dt1o/ed7sR8WMqQUDc3scWzqf3IeL1ywKBgCvO\nuvmbw+Fb6XfsVvD9Zz425I6kiiFYyPOh3KCaSXcoLDXCxILcEHpH4M6p4+cmlVz9\nHDsP2S9T5DBwpSuZn/bhE5Co4GrzK6X7mVf++z5R+b8hOCElVLHpwPw4kHDj/Q9+\nFthaDhlWp4vQYBPAfgeSH8zTuAsF/LrWdlIxb0KZAoGBANbcNr0Pg6okaqJHjMeN\nVYwhAdsHLETCqwS5EAopatoGjoc8JjUdApaBAv9j0JyJViJQ2R+e+16CmwIpT+K+\niTqIsMjrz9uFDLEf0pqDc5FG1t3+yaOABjXX/318hBf/YA5+g+E8uYnipgfW+dMg\nW/3UHd2HivVafP5WooYbUvad\n-----END PRIVATE KEY-----\n",
+  "client_email": "samahmn@poised-tenure-428115-s9.iam.gserviceaccount.com",
+  "client_id": "113136811269497459473",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samahmn%40poised-tenure-428115-s9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
