@@ -72,7 +72,7 @@ def email_generator():
       #                 layout='centered',
       #                 initial_sidebar_state='collapsed')
 
-    st.image('C:/Users/loubna/Desktop/app_finale2/app_finale/logo.jpg', width=100)
+    st.image('logo.jpg', width=100)
     st.markdown("<h2 style='text-align: center; color: #FFA500;'>Générateur d'Emails 📧</h2>", unsafe_allow_html=True)
 
     # Add a horizontal line separator
